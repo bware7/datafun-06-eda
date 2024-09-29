@@ -78,4 +78,4 @@ git push origin main
 
 This dataset contains information on all-time NBA scoring leaders, sourced from Statista. It includes data such as player names, total career points, and ranking among top NBA scorers. The dataset will be used to explore trends in scoring, visualize player performance, and identify key insights about scoring leaders throughout NBA history.
 
-[Link text](https://www.statista.com/statistics/271305/all-time-nba-scoring-leaders/)
+[NBA all-time scoring leaders](https://www.statista.com/statistics/271305/all-time-nba-scoring-leaders/)
