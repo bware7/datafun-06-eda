@@ -79,3 +79,15 @@ git push origin main
 This dataset contains information on all-time NBA scoring leaders, sourced from Statista. It includes data such as player names, total career points, and ranking among top NBA scorers. The dataset will be used to explore trends in scoring, visualize player performance, and identify key insights about scoring leaders throughout NBA history.
 
 [NBA all-time scoring leaders](https://www.statista.com/statistics/271305/all-time-nba-scoring-leaders/)
+
+## Exploratory Data Analysis Summary
+
+In this EDA project, I explored the dataset of NBA's all-time scoring leaders. Using Python, Jupyter, and various data analytics libraries, I analyzed scoring trends and visualized player performance. The analysis highlighted the career achievements of LeBron James, Kareem Abdul-Jabbar, and Karl Malone. By combining original data with additional scraped statistics, I provided a detailed comparison of scoring, assists, rebounds, and field goal efficiency.
+
+**Key Findings:**
+
+- Scoring Leadership: LeBron James currently leads in total career points, followed closely by Kareem Abdul-Jabbar and Karl Malone.
+- All-Around Contributions: LeBron stands out for his versatility, leading in assists among the top scorers, while Karl Malone dominates in rebounding.
+- Efficiency: Kareem's impressive field goal percentage demonstrates his effective scoring methods.
+
+This analysis not only showcases the individual greatness of these players but also emphasizes different paths to becoming an NBA legend — whether through efficient scoring, versatile playmaking, or consistent rebounding.
